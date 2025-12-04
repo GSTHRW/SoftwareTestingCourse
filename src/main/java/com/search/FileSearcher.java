@@ -8,6 +8,12 @@ import java.util.List;
 
 /**
  * FileSearcher - A grep-like utility for searching patterns in files
+ * 
+ * 
+ * Hej detta är ett test till labben! Har detta commitats?
+ * 
+ * 
+ * This is supposed to be a new issue!
  */
 public class FileSearcher {
     
