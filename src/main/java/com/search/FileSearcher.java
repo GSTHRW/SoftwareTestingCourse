@@ -12,6 +12,8 @@ import java.util.List;
  * 
  * Hej detta är ett test till labben! Har detta commitats?
  * 
+ * 
+ * This is supposed to be a new issue!
  */
 public class FileSearcher {
     
