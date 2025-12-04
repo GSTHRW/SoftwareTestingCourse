@@ -73,6 +73,8 @@ public class FileSearcher {
      * @param args Command line arguments
      */
     public static void main(String[] args) {
+
+        //THIS WILL BE THE A GREAT ISSUE
         if (args.length < 2) {
             printUsage();
             System.exit(1);
